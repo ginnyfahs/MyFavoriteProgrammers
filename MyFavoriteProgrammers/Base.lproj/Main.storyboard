@@ -21,7 +21,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="NFd-cZ-mnK" customClass="fayeview">
                                 <rect key="frame" x="207" y="20" width="207" height="358"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="faye_small" translatesAutoresizingMaskIntoConstraints="NO" id="OFD-SQ-pg3">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sent_from_faye_small" translatesAutoresizingMaskIntoConstraints="NO" id="OFD-SQ-pg3">
                                         <rect key="frame" x="20" y="20" width="167" height="215.66666666666666"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="OFD-SQ-pg3" secondAttribute="height" multiplier="24:31" id="PUX-hs-Sbc"/>
@@ -158,7 +158,7 @@
     <resources>
         <image name="andy_c_small" width="160" height="240"/>
         <image name="apoorvasmall" width="180" height="251"/>
-        <image name="faye_small" width="180" height="238"/>
+        <image name="sent_from_faye_small" width="180" height="240"/>
         <image name="swordcharlyncroppedjpg" width="180" height="240"/>
     </resources>
 </document>
