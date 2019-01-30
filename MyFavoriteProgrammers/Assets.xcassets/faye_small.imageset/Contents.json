@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "fayeh.jpg",
+      "filename" : "faye_small.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "fayeh-1.jpg",
+      "filename" : "faye_small-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "fayeh-2.jpg",
+      "filename" : "faye_small-2.png",
       "scale" : "3x"
     }
   ],
