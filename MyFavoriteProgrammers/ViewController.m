@@ -9,6 +9,10 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UIImageView *charlynView;
+@property (weak, nonatomic) IBOutlet UIImageView *fayeView;
+@property (weak, nonatomic) IBOutlet UIImageView *apoorvaView;
+@property (weak, nonatomic) IBOutlet UIImageView *andreaView;
 
 @end
 
@@ -17,6 +21,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    self.charlynView.contentMode = UIViewContentModeScaleAspectFit;
+    self.fayeView.contentMode = UIViewContentModeScaleAspectFit;
+    self.apoorvaView.contentMode = UIViewContentModeScaleAspectFit;
+    self.andreaView.contentMode = UIViewContentModeScaleAspectFit;
+
+    
 }
 
 

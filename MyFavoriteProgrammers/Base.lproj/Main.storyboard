@@ -149,6 +149,12 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="andreaView" destination="aBk-2f-eUD" id="K5L-Je-jkt"/>
+                        <outlet property="apoorvaView" destination="G4s-x1-1KI" id="5Kt-wx-FNd"/>
+                        <outlet property="charlynView" destination="jmo-kU-L2t" id="mdy-eU-cdB"/>
+                        <outlet property="fayeView" destination="OFD-SQ-pg3" id="Vah-Cq-ksX"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
